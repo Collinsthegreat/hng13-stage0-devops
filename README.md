@@ -1,8 +1,9 @@
 # HNG13 DevOps Stage 0
 
 Name: Abuchi Nwajagu Collins 
-**Slack Username:** TheGreatOne 
+Slack Username: @TheGreatOne 
 Project Description:  
-This is my Stage 0 DevOps task for HNG13, where I deploy an NGINX web server to host a custom webpage.  
+This project is part of the HNG13 DevOps internship. It sets up an NGINX web server hosting a static HTML page deployed locally and exposed publicly via ngrok. 
 
-**Server URL/IP:** http://<your-server-ip> (to be updated after deployment)
+Server URL:
+https://c8755214202e.ngrok-free.app
